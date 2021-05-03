@@ -1,7 +1,12 @@
 # Welcome on my GitHub page
 
 ### Who am I?
-26 yo french front end developer based in Aix-en-Provence, currently working for Fulll, ReactJS enthousiast. 
+26 yo french front end developer based in Aix-en-Provence, currently working for Fulll, ReactJS enthousiast.
+
+Le Wagon alumni and graduated from OpenClassrooms as a full-stack developer.
+
+Recently preparing for the AWS Certified Cloud Practitioner certification. Interested in AR/VR and Amazon Sumerian in particular.
+
 
 ### Languages & tools
 
