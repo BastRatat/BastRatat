@@ -20,5 +20,3 @@
 <a align='left' href='https://www.linkedin.com/in/bastien-ratat' alt='Bastien Ratat LinkedIn'> 
  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />
 </a>
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
