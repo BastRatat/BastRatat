@@ -1,7 +1,7 @@
 # Welcome on my GitHub page
 
 ### Who am I?
-26 years-old french front end developer based in Aix-en-Provence, ReactJS enthousiast.
+27 years-old french front end developer based in Aix-en-Provence, ReactJS enthousiast.
 
 Le Wagon alumni and graduated from OpenClassrooms as a full-stack developer. Full-time developer for Fulll.
 
