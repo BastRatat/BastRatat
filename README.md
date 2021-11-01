@@ -5,7 +5,7 @@
 
 Le Wagon alumni and graduated from OpenClassrooms as a full-stack developer. Full-time developer for Fulll.
 
-Recently preparing for the AWS Certified Cloud Practitioner certification and playing around with React Native to develop powerful & scalable iOS applications
+Recently preparing for the AWS Certified Cloud Practitioner certification.
 
 
 ### Languages & tools
