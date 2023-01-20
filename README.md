@@ -1,7 +1,7 @@
 # Welcome on my GitHub page
 
 ### Who am I?
-27 years-old french software engineer based in Aix-en-Provence.
+2! years-old french software engineer based in Aix-en-Provence.
 
 Le Wagon alumni and graduated from OpenClassrooms as a full-stack developer. 
 
