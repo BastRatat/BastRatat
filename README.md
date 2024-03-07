@@ -1,13 +1,13 @@
 # Welcome on my GitHub page
 
 ### Who am I?
-28 years-old french software engineer based in Aix-en-Provence.
+29 years-old french software engineer based in Chengdu, China.
 
 Le Wagon alumni and graduated from OpenClassrooms as a full-stack developer. 
 
-Full-time backend software engineer for Fulll.
+I had a full-time experience as a full-stack software engineer for Fulll.
 
-In love with both blockchain engineering and backend concepts.
+My main development tools are Rust, TypeScript, Go and Solidity. 
 
 
 ### Languages & tools
