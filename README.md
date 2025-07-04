@@ -1,18 +1,19 @@
 # Welcome on my GitHub page
 
 ### Who am I?
-30 years-old french software engineer based in Phuket, Thailand.
+31 years-old french software engineer based in Phuket, Thailand.
 
 Le Wagon alumni and graduated from OpenClassrooms as a full-stack developer.
 
 My work experience:
 - software engineer for Fulll in France for 3 years
-- software & infrastructure engineer for CreateBig in Australia for 10 months
+- currently software & infrastructure engineer for CreateBig in Australia for 1 year 
+- currently building Undrill, a business intelligence SaaS for content creator and lead conversion using agentic AI
 
 My main development tools are:
 - TypeScript for frontend
-- Go for backend
-- Rust for CLI and system engineering
+- Go and Rust for backend
+- LangChain for agentic AI development
 
 
 ### Languages & tools
